@@ -319,4 +319,6 @@ module.exports = pullDataFromHubspot;
 *  This will reduce the overall execution time and improve the performance of the application. 
 *
 *  So far the app can be improved by: adding error handling, logging, and monitoring, adding tests to ensure the reliability of the application, improve the code quality, redeability and file structure.
+*
+*  by the way there's was some vulnerabilities in the package json.
 **/
